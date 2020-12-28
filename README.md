@@ -8,3 +8,5 @@ LSTMs are widely used for sequence prediction problems and have proven to be ext
 1. Forget Gate
 2. Input Gate
 3. Output Gate
+
+Credit: randerson112358
